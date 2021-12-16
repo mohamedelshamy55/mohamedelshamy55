@@ -2,7 +2,7 @@
 
 <h2>👋 Hi, I’m<b> Mohamed ElShamy</b></h2>
 
-- 💻 I'm an aspiring full stack developer currently enrolled in Microverse. 
+- 💻 I'm an aspiring Full-stack developer currently enrolled in Microverse. 
 - 👀 I’m interested in developing software applications to solve real world problems.
 - 🌱 I’m constantly learning about new software tools. 
 - 💞️ I’m looking to taking part in the building web & mobile applications.
