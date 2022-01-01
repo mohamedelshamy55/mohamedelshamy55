@@ -18,8 +18,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedelshamy55&repo=Portfolio-mobile-menu&theme=tokyonight)](https://mohamedelshamy55.github.io/Portfolio/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedelshamy55&repo=firstcapstone&theme=tokyonight)](https://mohamedelshamy55.github.io/firstcapstone/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedelshamy55&repo=secondcapstone&theme=tokyonight)]
-(https://naskhalil.github.io/capstone-project/)
 </br>
 # Technologies & Tools
 
