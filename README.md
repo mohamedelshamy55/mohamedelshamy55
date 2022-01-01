@@ -15,9 +15,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelshamy55&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/mohamedelshamy55/github-readme-stats) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedelshamy55&repo=Portfolio-mobile-menu&theme=tokyonight)](https://mohamedelshamy55.github.io/Portfolio-mobile-menu/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedelshamy55&repo=Portfolio-mobile-menu&theme=tokyonight)](https://mohamedelshamy55.github.io/Portfolio/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedelshamy55&repo=firstcapstone&theme=tokyonight)](https://mohamedelshamy55.github.io/firstcapstone/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedelshamy55&repo=secondcapstone&theme=tokyonight)]
+(https://naskhalil.github.io/capstone-project/)
 </br>
 # Technologies & Tools
 
